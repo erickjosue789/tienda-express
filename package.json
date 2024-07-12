@@ -1,0 +1,26 @@
+{
+  "name": "tienda",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "cookie-parser": "~1.4.4",
+    "datatables.net": "^2.0.8",
+    "datatables.net-bs4": "^2.0.8",
+    "debug": "~2.6.9",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.7.1",
+    "morgan": "~1.9.1",
+    "mysql2": "^3.10.2",
+    "popper.js": "^1.16.1",
+    "sequelize": "^6.37.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
